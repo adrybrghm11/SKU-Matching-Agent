@@ -1,0 +1,3 @@
+sku,issue_type,details,raw_description
+EP2-00000,missing_sku,"Description row exists but no valid SKU found","Surface Laptop 8 - 13.8in - Ultra 7 - U7/16/256 - Black"
+EP2-47990,partial_parse,"Parsed SKU but missing exact CPU variant labeling","Surface Laptop 8 - 13.8in - Ultra 7 - U7/32/512 - Black"

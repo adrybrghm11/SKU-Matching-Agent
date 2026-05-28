@@ -1,0 +1,12 @@
+your-project/
+  app.py
+  build_product_master.py
+  requirements.txt
+  data/
+    approved_replacements.csv
+    Laptop 7 SKU List.csv
+    Laptop 8 SKU List.csv
+    Pro 11 SKU List.csv
+    DandH5.11.2026.csv
+    Ingram5.11.26.csv
+    Synnex5.11.26.csv
